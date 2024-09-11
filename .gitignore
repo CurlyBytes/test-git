@@ -1,7 +1,7 @@
 */config/development
 */logs/log-*.php
 !*/logs/index.html
-*/cache/*
+*/cache/* 
 !system/cache/*
 !*/cache/index.html
 !*/cache/.htaccess
@@ -11,7 +11,7 @@ user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 
-#codeigniter 3
+#codeigniter 3sdf
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
